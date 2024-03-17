@@ -1,1 +1,1 @@
-![Screenshot](https://cdn.discordapp.com/attachments/899320565582680096/1044348311416619008/banner-github.png)
+![Screenshot](https://media.discordapp.net/attachments/899320565582680096/1044348311416619008/banner-github.png?ex=6601de28&is=65ef6928&hm=21c50216d5030ac5059bcdd112d8e73b2fb7b7a7eabc81c2dc25a2134ce2fa19&=&format=webp&quality=lossless&width=720&height=405)
